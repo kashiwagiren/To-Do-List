@@ -7,7 +7,6 @@ A simple and user-friendly To-Do List application built with HTML, CSS, and Java
 - **Add Tasks**: Easily add tasks to your to-do list.
 - **Remove Tasks**: Delete tasks from your list when they are no longer needed.
 - **Complete Tasks**: Mark tasks as complete with a simple click.
-- **Responsive Design**: Optimized for desktop only.
 
 ## Demo
 
