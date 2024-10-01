@@ -10,8 +10,8 @@ A simple and user-friendly To-Do List application built with HTML, CSS, and Java
 
 ## Preview
 
-![To-Do List Preview](https://github.com/kashiwagiren/To-Do-List/tree/main/images/to-do.gif)  
-*Screenshot of the To-Do List app in action*
+![](https://github.com/kashiwagiren/To-Do-List/blob/main/images/to-do.gif)  
+*GIF of the To-Do List app in action*
 
 ## Installation
 
